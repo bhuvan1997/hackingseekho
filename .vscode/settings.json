@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/dfe5c618-c856-40e3-9602-56df9c59adfe/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/php-hacking-seekho",
+    "appService.deploySubpath": "."
+}
